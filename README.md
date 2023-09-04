@@ -10,7 +10,7 @@ In-text preprocess we are cleaning our text by steaming, lemmatization, remove s
 Dataset:
 Our dataset consist of five columns where first four are the input features and the label column tells whether the news is real or fake.
 
-Sample of the dataset is:
+Sample of the dataset is: 
 ![image](https://user-images.githubusercontent.com/118727786/218250897-cc426647-d8c9-42d1-ae4f-9e481eea5b04.png)
 
  Classification methods used:
